@@ -1,7 +1,9 @@
 # About me:
 - 👋 Hi, I’m @AdamGrochulski
 
-![Octoone_Modern_Avatar_512](https://github.com/user-attachments/assets/0bf7e2f8-ecf8-400e-bf18-3aa03e6c895e)
+<p align="center">
+  <img width="256" height="256" src="https://github.com/AdamGrochulski/AdamGrochulski/blob/master/Octoone_Modern_Avatar_512.jpg">
+</p>
 
 <!---
 AdamGrochulski/AdamGrochulski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
