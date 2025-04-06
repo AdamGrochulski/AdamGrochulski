@@ -1,4 +1,4 @@
-<h2 align="left">Hi, it's @AdamGrochulski</h2>
+<h2 align="left">About me 🙋‍♂️
 
 ###
 
@@ -8,11 +8,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamGrochulski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true&custom_title=Languages%20%E2%80%8B%E2%80%8BI%20Use" height="150" alt="languages graph"  />
 </div>
 
+### Hi, I'm Adam👋:
+🛠️currently working on a program that splits graphs
+
+🎓studying applied computer science at Warsaw University of Technology
+
+
 ###
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/AdamGrochulski/AdamGrochulski/refs/heads/master/Octoone_Modern_Avatar_512.jpg"  />
 
-###
+### 👩🏻‍💻My favorite IDEs:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
