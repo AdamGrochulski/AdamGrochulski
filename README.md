@@ -25,8 +25,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-grochulski-5917323b1/)
 
-<br clear="both">
+<!-- <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AdamGrochulski/AdamGrochulski/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AdamGrochulski/AdamGrochulski/output/snake.svg" alt="Snake animation" /> -->
 
 ###
