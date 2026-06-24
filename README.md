@@ -14,7 +14,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### Tech Stack
+<b>Tech Stack</b>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -27,14 +27,13 @@
 </td>
 <td valign="top" width="50%">
 
-### Design
+<b>Design</b>
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white)
 ![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=flat-square&logo=affinityphoto&logoColor=white)
 ![Affinity Publisher](https://img.shields.io/badge/Affinity_Publisher-FF8C00?style=flat-square&logo=affinitypublisher&logoColor=white)
 ![Procreate](https://img.shields.io/badge/Procreate-5E86DB?style=flat-square&logo=procreate&logoColor=white)
-
 
 </td>
 </tr>
