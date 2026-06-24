@@ -9,10 +9,9 @@
     📖 Software development • Computer graphics • Game dev
     🎨 Pixel art • Godot • Aseprite • Music • Games
 </pre>
-<br>
 <table>
 <tr>
-<td valign="top" width="380">
+<td valign="top" width="300">
 
 ### Tech Stack
 
@@ -25,7 +24,7 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 </td>
-<td valign="top" width="380">
+<td valign="top" width="300">
 
 ### Design
 
@@ -38,7 +37,6 @@
 </td>
 </tr>
 </table>
-<br>
 
 </div>
 
