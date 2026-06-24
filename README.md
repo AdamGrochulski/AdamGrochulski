@@ -10,11 +10,11 @@
     🎨 Pixel art • Godot • Aseprite • Music • Games
 </pre>
 <br>
-<table align="center">
+<table>
 <tr>
-<td valign="top">
+<td valign="top" width="380">
 
-<b>Tech Stack</b>
+### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -25,9 +25,9 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 </td>
-<td valign="top">
+<td valign="top" width="380">
 
-<b>Design</b>
+### Design
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white)
