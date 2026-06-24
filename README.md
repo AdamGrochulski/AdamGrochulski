@@ -12,7 +12,7 @@
 <br>
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 <b>Tech Stack</b>
 
@@ -25,7 +25,7 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 <b>Design</b>
 
